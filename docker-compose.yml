@@ -1,0 +1,23 @@
+version: '3.4'
+
+services:
+
+    dms_service:
+        build: ./DataManagementSystem
+        ports:
+        - "8998:80"
+        depends_on:
+        - "db"
+        
+    controlpanel_service:
+        build: ./ControlPanel
+        ports:
+        - "8999:80"
+        depends_on:
+        - "dms_service"
+    
+    db:
+        image: "mcr.microsoft.com/mssql/server"
+        environment:
+            MSSQL_SA_PASSWORD: "1StrongPwd!!"
+            ACCEPT_EULA: "Y"

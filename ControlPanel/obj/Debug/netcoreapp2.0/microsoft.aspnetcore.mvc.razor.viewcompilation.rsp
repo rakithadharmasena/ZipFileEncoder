@@ -1,0 +1,12 @@
+C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=ControlPanel
+--content-root=C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel
+--file=C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\Views\Home\About.cshtml
+--file=C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\Views\Home\Contact.cshtml
+--file=C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\Views\Home\Index.cshtml
+--file=C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\Views\Shared\Error.cshtml
+--file=C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\Views\Shared\_Layout.cshtml
+--file=C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\Views\_ViewImports.cshtml
+--file=C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\Views\_ViewStart.cshtml

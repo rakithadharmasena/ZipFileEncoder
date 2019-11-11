@@ -1,0 +1,10 @@
+C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\bin\Release\netcoreapp2.0\ControlPanel.deps.json
+C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\bin\Release\netcoreapp2.0\ControlPanel.runtimeconfig.json
+C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\bin\Release\netcoreapp2.0\ControlPanel.runtimeconfig.dev.json
+C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\bin\Release\netcoreapp2.0\ControlPanel.dll
+C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\bin\Release\netcoreapp2.0\ControlPanel.pdb
+C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\obj\Release\netcoreapp2.0\ControlPanel.csproj.CoreCompileInputs.cache
+C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\obj\Release\netcoreapp2.0\ControlPanel.AssemblyInfoInputs.cache
+C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\obj\Release\netcoreapp2.0\ControlPanel.AssemblyInfo.cs
+C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\obj\Release\netcoreapp2.0\ControlPanel.dll
+C:\Users\Raki\source\repos\ZipFileEncorder\ControlPanel\obj\Release\netcoreapp2.0\ControlPanel.pdb
